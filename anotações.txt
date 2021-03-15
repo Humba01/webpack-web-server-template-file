@@ -1,0 +1,13 @@
+PRIORIDADE: Acabar as outras partes do site.
+
+Coisas para fazer depois de colocar a dinâmica da página em funcionamento na calculadora:
+
+1- Adicionar mais funcionalidades.
+
+2- Arrumar a função do hover e do active dos setores da calculadora.
+
+2.1- A partir do setor dos Arcos Trigonométricos.
+
+3- Testar todas as funcionalidades da calculadora no Jasmine.
+
+4- Ajustar o modo responsivo do site.
